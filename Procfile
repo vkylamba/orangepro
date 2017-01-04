@@ -1,1 +1,1 @@
-web: gunicorn shippable.wsgi --log-file -
+web: gunicorn orangepro.wsgi --log-file -
