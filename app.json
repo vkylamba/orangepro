@@ -1,0 +1,8 @@
+{
+  "name": "Orange pro corporate software",
+  "description": "This is corporate entry level website for Orange pro",
+  "image": "heroku/python",
+  "repository": "https://github.com/gururaj/orangepro",
+  "keywords": ["python", "django" ],
+  "addons": [ "heroku-postgresql" ]
+}
